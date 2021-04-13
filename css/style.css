@@ -183,6 +183,9 @@ button:hover{
 .right{
 	margin-right:102px;
 }
+.page-title__img{
+	width: auto;
+}
 .section-container__text {
 	font-family: Mulish;
 	font-style: normal;
@@ -544,12 +547,6 @@ h3{
 .social-list img {
 	margin-right: 35px;
 }
-
-/* Адаптив */
-@media all (max-width: 480px){
-	
-}
-
 
 /* ANIMATION */
 @keyframes circle__big{
